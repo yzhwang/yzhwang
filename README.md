@@ -15,6 +15,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/yzhwang/yzhwang/blob/output/ocean.gif)
+  ![Snake animation](https://github.com/yzhwang/yzhwang/blob/output/github-snake-dark.svg)
  
 </div>
